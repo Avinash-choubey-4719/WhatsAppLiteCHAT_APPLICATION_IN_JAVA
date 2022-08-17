@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "690175937401",
+    "project_id": "whatsapp-lite-1bd32",
+    "storage_bucket": "whatsapp-lite-1bd32.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:690175937401:android:51c7891b11f2e52bc77da8",
+        "android_client_info": {
+          "package_name": "com.avinash.whatsapplite"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "690175937401-qtudg7flti17s9r5p9st0ttq9kqs88r7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD6UGNw7G48_ekjhgWjeA30cMw71d8jUWI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "690175937401-qtudg7flti17s9r5p9st0ttq9kqs88r7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
